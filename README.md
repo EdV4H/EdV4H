@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdV4H&theme=nord_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdV4H&theme=nord_dark&utcOffset=9)
